@@ -1,4 +1,5 @@
-.name        = 'array_range_extensions'
+Gem::Specification.new do |s|
+  s.name        = 'array_range_extensions'
   s.version     = '0.1'
   s.date        = '2016-02-27'
   s.summary     = "array_range_extensions"
